@@ -2,7 +2,7 @@
 - 👀 I’m interested in python programming and full stack development.
 - 🌱 I’m currently learning Amazon web services.
 - 💞️ I’m looking to collaborate on python or javascript projects
-- 📫 React me at sharma.jyoti01jan@gmail.com
+- 📫 Reach me at sharma.jyoti01jan@gmail.com
 
 <!---
 Jyotiprav/Jyotiprav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
